@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a master student in Korea.
-### I'm currently working on HMI(Human-Machine Interface) with UAV.
-### I'm studying about Path planning with reinfocement learing.
+### 🔭 I'm currently working on HMI(Human-Machine Interface) with UAV.
+### 😄 I'm studying about Path planning with reinfocement learing.
 
 <!--
 **yirameon/yirameon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
