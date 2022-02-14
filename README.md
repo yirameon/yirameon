@@ -1,5 +1,5 @@
-### Hi there 👋 I'm a master student in Korea.
-### 🔭 I'm currently working on HMI(Human-Machine Interface) with UAV.
+### Hi there 👋 I'm a master student in Republic of Korea.
+### 🔭 I'm currently working on HMI(Human-Machine Interface) with UAV/UGV/USV.
 ### 😄 I'm studying about Path planning with reinfocement learing.
 
 <!--
